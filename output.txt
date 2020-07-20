@@ -1,0 +1,982 @@
+SampleName = "Afghan_Hound"
+SampleSize=1
+SampleData= {
+1a	1	01503	New
+}
+SampleName = "Alaskan_Malamute"
+SampleSize=20
+SampleData= {
+1b	4	08201	05401
+2b	3	00101	00501
+3b	1	00601	02001
+4b	2	01101	01303
+5b	9	01501	02301
+6b	1	01503	00301
+}
+SampleName = "Australian_Cattle_Dog"
+SampleSize=21
+SampleData= {
+1c	1	02901	00401
+2c	7	00201	00101
+3c	1	01301	00501
+4c	6	01501	00301
+5c	5	01501	02002
+6c	1	01501	02301
+}
+SampleName = "Australian_Shepherd_Dog"
+SampleSize=4
+SampleData= {
+1d	1	04001	01901
+2d	1	01301	00501
+3d	2	01501	02301
+}
+SampleName = "Basset_Hound"
+SampleSize=8
+SampleData= {
+1e	4	01501	02301
+2e	2	00601	00701
+3e	2	010011	01501
+}
+SampleName = "Beagle"
+SampleSize=113
+SampleData= {
+1f	13	01501	00101
+2f	8	00101	00201
+3f	27	00102	00201
+4f	9	00201	00101
+5f	3	00202	00101
+6f	20	00601	00802
+7f	30	00601	00701
+8f	2	00801	00401
+9f	1	01301	00501
+}
+SampleName = "Bernese_Mountain_Dog"
+SampleSize=5
+SampleData= {
+1g	1	04801	00802
+2g	2	00601	00701
+3g	1	01301	00201
+4g	1	01501	02002
+}
+SampleName = "Bichon_Frise"
+SampleSize=32
+SampleData= {
+1h	2	01502	00101
+2h	5	00601	00701
+3h	1	00901	00201
+4h	1	00901	008011
+5h	5	01301	00201
+6h	17	01501	02301
+7h	1	01501	00101
+}
+SampleName = "Bouvier"
+SampleSize=2
+SampleData= {
+1i	1	02001	01303
+2i	1	00601	01303
+}
+SampleName = "Boxer"
+SampleSize=58
+SampleData= {
+1j	10	01502	02301
+2j	29	00401	01501
+3j	4	00601	00701
+4j	2	01201	01303/01701
+5j	13	01301	00201
+}
+SampleName = "Bulldog"
+SampleSize=7
+SampleData= {
+1k	1	04801	00802
+2k	1	00601	00701
+3k	3	01501	02301
+4k	2	01502	02301
+}
+SampleName = "Chow_Chow"
+SampleSize=12
+SampleData= {
+1l	4	02001	01303
+2l	3	01501	00101
+3l	2	00101	00201
+4l	2	01503	00301
+5l	1	01801	00802
+}
+SampleName = "Collie"
+SampleSize=23
+SampleData= {
+1m	2	01801	00201
+2m	1	00101	00201
+3m	1	00101	03601
+4m	1	00201	00802
+5m	6	00201	00101
+6m	1	00601	01303
+7m	1	00901	00802
+8m	1	01201	01303
+9m	1	01201	01303/01701
+am	2	01301	00201
+bm	3	01501	02301
+cm	2	01502	02301
+dm	1	01701	01303
+}
+SampleName = "Collie_(Bearded)"
+SampleSize=7
+SampleData= {
+1n	1	New	00201
+2n	1	00901	00802
+3n	1	01501	00301
+4n	2	01801	00201
+5n	2	01801	00802
+}
+SampleName = "Collie_(Border)"
+SampleSize=39
+SampleData= {
+1o	1	05401	02301
+2o	4	00101	00201
+3o	5	00201	00101
+4o	1	00901	00802
+5o	1	01201	00201
+6o	6	01301	00201
+7o	11	01501	02301
+8o	1	01501	00101
+9o	2	01502	02301
+ao	1	01801	00201
+bo	1	02001	01303
+co	5	02301	00501
+}
+SampleName = "Collie_(Rough)"
+SampleSize=2
+SampleData= {
+1p	1	01501	00101
+2p	1	00201	00101
+}
+SampleName = "Corgi"
+SampleSize=8
+SampleData= {
+1q	1	01801	00802
+2q	1	00201	00101
+3q	1	01501	00301
+4q	1	01501	01101
+5q	1	01501	02002
+6q	1	01501	02301
+7q	2	01801	00201
+}
+SampleName = "Dachshund"
+SampleSize=4
+SampleData= {
+1r	1	07301	01303
+2r	2	00101	00201
+3r	1	00901	008011
+}
+SampleName = "Dachshund_(Long_Haired)"
+SampleSize=5
+SampleData= {
+1s	1	04801	00802
+2s	2	00101	00201
+3s	1	01501	02002
+4s	1	01502	02301
+}
+SampleName = "Dachshund_(Miniature_Short_Haired)"
+SampleSize=19
+SampleData= {
+1t	4	07301	01303
+2t	6	00101	00201
+3t	5	00203	00101
+4t	1	00901	008011
+5t	1	01201	00201
+6t	1	01502	02301
+7t	1	04801	00802
+}
+SampleName = "Dachshund_(Miniature)"
+SampleSize=2
+SampleData= {
+1u	1	00901	008011
+2u	1	00101	00201
+}
+SampleName = "Dachshund_(Short_Haired)"
+SampleSize=5
+SampleData= {
+1v	2	01201	01303/01701
+2v	1	00101	00201
+3v	1	00201	00101
+4v	1	00901	008011
+}
+SampleName = "Dachshund_(Wire_Haired)"
+SampleSize=1
+SampleData= {
+1w	1	00101	00201
+}
+SampleName = "Dalmatian"
+SampleSize=6
+SampleData= {
+1x	1	New	01303
+2x	1	00601	00701
+3x	2	01502	02301
+4x	2	02001	01303
+}
+SampleName = "Deerhound"
+SampleSize=2
+SampleData= {
+1y	1	01601	00802
+2y	1	01503	02002
+}
+SampleName = "Doberman"
+SampleSize=270
+SampleData= {
+1z	8	01501	00101
+2z	21	00201	00101
+3z	164	00601	01303
+4z	16	00601	00701
+5z	3	00601	01303
+6z	1	00901	008011
+7z	57	01201	00201
+}
+SampleName = "German_Langhaar"
+SampleSize=2
+SampleData= {
+1aa	1	01501	02601
+2aa	1	01201	01303/01701
+}
+SampleName = "German_Shepherd_Dog_Spain"
+SampleSize=24
+SampleData= {
+1ab	1	New	00501
+2ab	1	00101	00201
+3ab	1	00401	01501
+4ab	7	01101	01302
+5ab	8	01501	00301
+6ab	3	01501	02301
+7ab	1	01801	00802
+8ab	1	04001	01901
+9ab	1	New	00201
+}
+SampleName = "German_Shepherd_Dog_UK"
+SampleSize=21
+SampleData= {
+1ac	1	01501	02301
+2ac	4	00101	00201
+3ac	3	00102	00201
+4ac	1	00201	00101
+5ac	1	00601	00701
+6ac	1	00901	008011
+7ac	6	01101	01302
+8ac	4	01501	00301
+}
+SampleName = "Great_Dane"
+SampleSize=10
+SampleData= {
+1ad	2	01601	00201
+2ad	1	00101	00201
+3ad	1	00101	00401
+4ad	1	00601	00701
+5ad	2	00601	00701
+6ad	3	01201	01303/01701
+}
+SampleName = "Hovawart"
+SampleSize=7
+SampleData= {
+1ae	1	01501	02301
+2ae	2	00201	00101
+3ae	3	01301	00201
+4ae	1	01501	02002
+}
+SampleName = "Husky_(Alaskan)"
+SampleSize=20
+SampleData= {
+1af	2	07801	01303
+2af	2	00201	00101
+3af	2	00601	00701
+4af	4	01201	01303/01701
+5af	4	01502	02301
+6af	3	04001	01901
+7af	1	04701	New
+8af	2	07001	05001
+}
+SampleName = "Husky_(Siberian)"
+SampleSize=2
+SampleData= {
+1ag	1	04001	01901
+2ag	1	00101	00201
+}
+SampleName = "Ibizan_Hound"
+SampleSize=90
+SampleData= {
+1ah	16	06901	00201
+2ah	1	00101	00201
+3ah	18	00601	00701
+4ah	15	00802	00401
+5ah	12	00901	008011
+6ah	21	01503	04801
+7ah	7	01801	00802
+}
+SampleName = "Irish_Wolfhound"
+SampleSize=2
+SampleData= {
+1ai	1	01501	02002
+2ai	1	00201	00101
+}
+SampleName = "Japanese_Akita"
+SampleSize=2
+SampleData= {
+1aj	1	00101	00201
+2aj	1	00201	00101
+}
+SampleName = "Labrador_(Retriever)"
+SampleSize=160
+SampleData= {
+1ak	1	New	00802
+2ak	34	00101	00201
+3ak	1	00101	00802
+4ak	23	00601	00701
+5ak	3	00601	02001
+6ak	4	00802	00401
+7ak	1	01101	01302
+8ak	48	01201	01303/01701
+9ak	2	01501	00301
+aak	16	01501	02301
+bak	1	01502	00301
+cak	24	01502	02301
+dak	2	02001	01303
+}
+SampleName = "Lagotto_Romagnola"
+SampleSize=2
+SampleData= {
+1al	1	04801	008011
+2al	1	01501	02001
+}
+SampleName = "Laika_(West_Siberian)"
+SampleSize=24
+SampleData= {
+1am	1	04001	01901
+2am	1	00101	New
+3am	1	010011	01501
+4am	3	01501	01901/02201
+5am	10	01501	02301
+6am	5	01501	New
+7am	3	02001	01303
+}
+SampleName = "Leonburger"
+SampleSize=1
+SampleData= {
+1an	1	01601	00201
+}
+SampleName = "Lhasa_Apso"
+SampleSize=8
+SampleData= {
+1ao	1	02001	01303
+2ao	2	00601	00701
+3ao	1	01501	00301
+4ao	1	01501	02301
+5ao	2	01502	02301
+6ao	1	01502	02601
+}
+SampleName = "Lurcher"
+SampleSize=6
+SampleData= {
+1ap	3	01801	00802
+2ap	1	00101	00201
+3ap	1	00201	00101
+4ap	1	00601	01303
+}
+SampleName = "Mongrel_Brazilian"
+SampleSize=188
+SampleData= {
+1aq	24	05201	03501
+2aq	11	00101	00201
+3aq	6	00101	03601
+4aq	2	00101	00401
+5aq	2	00102	00201
+6aq	3	00201	00101
+7aq	3	00601	01303
+8aq	11	00601	00701
+9aq	10	00901	008011
+aaq	2	00901	00802
+baq	12	01101	01303
+caq	10	01301	00201
+daq	5	01301	00501
+eaq	2	01501	00301
+faq	5	01501	00301
+gaq	4	01501	02001
+haq	4	01501	02002
+iaq	10	01501	02301
+jaq	14	01501	02601
+kaq	2	01501	00301
+laq	12	01502	02301
+maq	4	01702	01304
+naq	4	01801	00802
+oaq	5	02001	01303
+paq	5	02301	00501
+qaq	3	02501	03501
+raq	1	02901	00401
+saq	2	04601	00802
+taq	3	04801	008011
+uaq	1	04801	00802
+vaq	1	04901	03901
+waq	2	05001	02302
+xaq	3	05101	02901
+}
+SampleName = "Newfoundland"
+SampleSize=133
+SampleData= {
+1ar	6	03001	00301
+2ar	20	00201	00101
+3ar	14	00601	00701
+4ar	32	00601	02001
+5ar	35	01201	01303/01701
+6ar	11	01301	00201
+7ar	6	01501	02301
+8ar	9	02001	01303
+}
+SampleName = "Norwegian_Elkhound"
+SampleSize=2
+SampleData= {
+1as	1	07601	02301
+2as	1	01501	02301
+}
+SampleName = "Papillon"
+SampleSize=3
+SampleData= {
+1at	2	04601	00802
+2at	1	01501	02301
+}
+SampleName = "Petit_Basset_Griffon_Vendeen"
+SampleSize=2
+SampleData= {
+1au	1	00601	00701
+2au	1	00101	00201
+}
+SampleName = "Pharaoh_Hound"
+SampleSize=1
+SampleData= {
+1av	1	08301	01303
+}
+SampleName = "Pointer"
+SampleSize=2
+SampleData= {
+1aw	1	04801	008011
+2aw	1	00901	008011
+}
+SampleName = "Pointer_(German_Short_haired)"
+SampleSize=2
+SampleData= {
+1ax	1	00901	008011
+2ax	1	00101	00201
+}
+SampleName = "Polish_Lowland_Sheepdog"
+SampleSize=2
+SampleData= {
+1ay	1	01501	00101
+2ay	1	01301	00201
+}
+SampleName = "Pomeranian"
+SampleSize=4
+SampleData= {
+1az	1	New	02301
+2az	1	00601	00701
+3az	2	01301	00201
+}
+SampleName = "Poodle"
+SampleSize=3
+SampleData= {
+1ba	2	01501	02601
+2ba	1	00301	00802
+}
+SampleName = "Poodle_(Miniature)"
+SampleSize=29
+SampleData= {
+1bb	2	New	00802
+2bb	4	00101	03601
+3bb	2	00601	00701
+4bb	2	010011	01501
+5bb	1	01301	00201
+6bb	1	01501	02002
+7bb	12	01501	02301
+8bb	1	01501	02601
+9bb	1	01502	02301
+abb	1	01503	02301
+bbb	2	01503	02301
+}
+SampleName = "Poodle_(Standard)"
+SampleSize=4
+SampleData= {
+1bc	1	01503	02301
+2bc	1	00601	00701
+3bc	2	01501	02301
+}
+SampleName = "Poodle_(Toy)"
+SampleSize=10
+SampleData= {
+1bd	1	02301	00501
+2bd	1	00101	03601
+3bd	1	00201	00101
+4bd	1	00301	00802
+5bd	1	00501	00501
+6bd	3	01501	02301
+7bd	2	01502	02601
+}
+SampleName = "Poodle-Beagle-Elkhound_X"
+SampleSize=167
+SampleData= {
+1be	1	New	00201
+2be	36	00101	00201
+3be	12	00103	00201
+4be	1	00601	00701
+5be	14	010011	01501
+6be	13	01501	02002
+7be	51	01501	02301
+8be	39	07601	02301
+}
+SampleName = "Pudl_(medium)"
+SampleSize=5
+SampleData= {
+1bf	1	08401	00101
+2bf	1	01501	02002
+3bf	1	01503	02301
+4bf	1	02601	008011
+5bf	1	08401	02301
+}
+SampleName = "Pudl_(mini)"
+SampleSize=3
+SampleData= {
+1bg	1	08401	00101
+2bg	1	01501	02301
+3bg	1	01502	02601
+}
+SampleName = "Retriever_(Chesapeake_Bay)"
+SampleSize=2
+SampleData= {
+1bh	1	00901	008011
+2bh	1	00601	00701
+}
+SampleName = "Retriever_(Flatcoat)"
+SampleSize=6
+SampleData= {
+1bi	2	01501	02301
+2bi	1	00401	00201
+3bi	1	01201	00201
+4bi	1	01201	00201
+5bi	1	01301	00201
+}
+SampleName = "Retriever_(Golden)"
+SampleSize=52
+SampleData= {
+1bj	10	02001	01303
+2bj	2	00101	00201
+3bj	1	00601	00701
+4bj	5	00601	02001
+5bj	3	00901	008011
+6bj	14	01201	01303
+7bj	4	01201	01303/01701
+8bj	1	01501	00301
+9bj	10	01501	02301
+abj	1	01502	02301
+bbj	1	01901	01303
+}
+SampleName = "Rhodesian_Ridgeback"
+SampleSize=148
+SampleData= {
+1bk	8	02001	01303
+2bk	46	00101	00201
+3bk	5	00101	03601
+4bk	28	00601	01303
+5bk	1	00601	00701
+6bk	36	01301	00201
+7bk	24	01801	00802
+}
+SampleName = "Rottweiler"
+SampleSize=13
+SampleData= {
+1bl	6	00601	00701
+2bl	7	00101	00401
+}
+SampleName = "Samoyed"
+SampleSize=25
+SampleData= {
+1bm	1	04001	01901
+2bm	1	00901	008011
+3bm	2	00901	00802
+4bm	4	00901	04601
+5bm	14	01501	01901/02201
+6bm	3	02001	01303
+}
+SampleName = "Schnauzer_(Miniature)"
+SampleSize=21
+SampleData= {
+1bn	1	01502	02301
+2bn	1	00101	00201
+3bn	3	00101	03601
+4bn	1	00901	00201
+5bn	10	00901	008011
+6bn	3	01301	00201
+7bn	1	01502	008011
+8bn	1	01502	00301
+}
+SampleName = "Setter_(English)"
+SampleSize=53
+SampleData= {
+1bo	1	01502	02301
+2bo	34	00101	00201
+3bo	1	00103	00201
+4bo	11	00601	00701
+5bo	2	00901	008011
+6bo	4	01301	00201
+}
+SampleName = "Setter_(Gordon)"
+SampleSize=8
+SampleData= {
+1bp	1	01801	00201
+2bp	4	00101	00201
+3bp	1	00601	00701
+4bp	2	00901	008011
+}
+SampleName = "Setter_(Irish)"
+SampleSize=6
+SampleData= {
+1bq	1	02001	01303
+2bq	3	00101	00201
+3bq	2	00103	00201
+}
+SampleName = "Sheepdog_(Old_English)"
+SampleSize=8
+SampleData= {
+1br	1	01801	00802
+2br	1	00401	01501
+3br	1	00601	00701
+4br	4	01301	00201
+5br	1	01502	02301
+}
+SampleName = "Sheepdog_(Shetland)"
+SampleSize=5
+SampleData= {
+1bs	2	01501	00101
+2bs	2	00201	00101
+3bs	1	00202	00101
+}
+SampleName = "Shepherd_Dog_(Caucasian)"
+SampleSize=11
+SampleData= {
+1bt	1	New	02101
+2bt	1	00102	008011
+3bt	1	00901	008011
+4bt	1	01301	02601
+5bt	2	01501	01303
+6bt	1	01501	04901
+7bt	1	02001	01303
+8bt	1	03202	008011
+9bt	1	New	008011
+abt	1	New	02002
+}
+SampleName = "Shepherd_Dog_(Middle_Asian)"
+SampleSize=66
+SampleData= {
+1bu	8	08001	None
+2bu	1	00101	00201
+3bu	1	00101	00401
+4bu	3	00201	00101
+5bu	4	00601	00701
+6bu	4	00901	008011
+7bu	1	010011	01901
+8bu	3	01501	00301
+9bu	5	01501	02301
+abu	4	01501	04901
+bbu	5	01501	New
+cbu	1	01502	01302
+dbu	4	01502	02301
+ebu	2	02001	01302
+fbu	7	02001	01303
+gbu	1	02501	03501
+hbu	1	03202	01302
+ibu	6	04801	03101
+jbu	1	04801	New
+kbu	1	05301	00501
+lbu	1	05301	00502
+mbu	1	07401	New
+nbu	1	07401	00701
+}
+SampleName = "Shih_Tzu"
+SampleSize=25
+SampleData= {
+1bv	4	03301	03801
+2bv	1	05301	00501
+3bv	6	00601	00701
+4bv	3	02001	01303
+5bv	1	01501	02301
+6bv	3	01502	02301
+7bv	7	02501	03501
+}
+SampleName = "Spaniel_(Cavalier_King_Charles)"
+SampleSize=23
+SampleData= {
+1bw	8	02001	01303
+2bw	1	00601	02001
+3bw	5	00901	008011
+4bw	9	01101	01303
+}
+SampleName = "Spaniel_(Cocker)"
+SampleSize=34
+SampleData= {
+1bx	1	01503	00101
+2bx	1	00101	00201
+3bx	2	00102	00201
+4bx	21	00601	00701
+5bx	2	00601	02001
+6bx	2	00901	008011
+7bx	1	01101	01303
+8bx	1	01201	01303/01701
+9bx	1	01501	00301
+abx	2	01501	02002
+}
+SampleName = "Spaniel_(Springer)"
+SampleSize=16
+SampleData= {
+1by	2	02001	01303
+2by	2	00101	01303
+3by	1	00501	00501
+4by	2	00601	00701
+5by	1	00802	00401
+6by	1	01201	01303/01701
+7by	2	01501	00301
+8by	3	01501	02002
+9by	2	01501	02301
+}
+SampleName = "Spitz_(German)"
+SampleSize=1
+SampleData= {
+1bz	1	00901	008011
+}
+SampleName = "St_Bernard"
+SampleSize=2
+SampleData= {
+1ca	1	02001	01303
+2ca	1	00901	008011
+}
+SampleName = "Tanzanian_mongrel"
+SampleSize=36
+SampleData= {
+1cb	3	New	02301
+2cb	4	00101	00201
+3cb	2	00101	03601
+4cb	2	00102	00201
+5cb	1	00201	00101
+6cb	2	00501	00501
+7cb	2	00601	00701
+8cb	8	00901	008011
+9cb	2	01501	00301
+acb	3	01501	02002
+bcb	3	01501	02301
+ccb	4	08101	00802
+}
+SampleName = "Terrier_(Airedale)"
+SampleSize=2
+SampleData= {
+1cc	2	00601	02801
+}
+SampleName = "Terrier_(Border)"
+SampleSize=18
+SampleData= {
+1cd	1	02001	01303
+2cd	4	00201	00101
+3cd	1	00201	00802
+4cd	1	00201	03001
+5cd	1	00202	00101
+6cd	2	00501	02301
+7cd	1	00802	00502
+8cd	1	01101	01302
+9cd	6	01501	02002
+}
+SampleName = "Terrier_(Bull)"
+SampleSize=2
+SampleData= {
+1ce	1	01301	00201
+2ce	1	00601	01303
+}
+SampleName = "Terrier_(Cairn)"
+SampleSize=21
+SampleData= {
+1cf	7	01502	02301
+2cf	2	00101	00201
+3cf	1	00201	00101
+4cf	3	00901	008011
+5cf	1	01501	00301
+6cf	1	01501	01101
+7cf	6	01501	02301
+}
+SampleName = "Terrier_(Fox)"
+SampleSize=1
+SampleData= {
+1cg	1	01301	00201
+}
+SampleName = "Terrier_(Jack_Russell)"
+SampleSize=68
+SampleData= {
+1ch	1	02001	01303
+2ch	10	00101	00201
+3ch	1	00101	00501
+4ch	6	00101	03601
+5ch	1	00101	01303
+6ch	1	00101	00501
+7ch	1	00102	00201
+8ch	5	00201	00101
+9ch	1	00501	00501
+ach	4	00601	00701
+bch	1	00901	00201
+cch	6	00901	008011
+dch	2	00901	00802
+ech	2	01101	01302
+fch	2	01201	01303/01701
+gch	6	01301	00201
+hch	2	01501	00301
+ich	3	01501	02201
+jch	6	01501	02301
+kch	1	01502	02301
+lch	1	01701	01303
+mch	1	01801	00201
+nch	4	01801	00802
+}
+SampleName = "Terrier_(Lakeland)"
+SampleSize=2
+SampleData= {
+1ci	1	07601	02201
+2ci	1	00901	00101
+}
+SampleName = "Terrier_(Maltese)"
+SampleSize=2
+SampleData= {
+1cj	1	07401	00701
+2cj	1	01501	05301
+}
+SampleName = "Terrier_(Norwich)"
+SampleSize=1
+SampleData= {
+1ck	1	01502	02301
+}
+SampleName = "Terrier_(Scottish)"
+SampleSize=4
+SampleData= {
+1cl	1	01501	00201
+2cl	1	00101	00201
+3cl	2	00901	008011
+}
+SampleName = "Terrier_(Soft_Coated_Wheaten)"
+SampleSize=2
+SampleData= {
+1cm	1	01501	02301
+2cm	1	00601	00701
+}
+SampleName = "Terrier_(Staffs_Bull)"
+SampleSize=27
+SampleData= {
+1cn	3	01501	00101
+2cn	12	00101	00201
+3cn	1	00201	00101
+4cn	1	00601	00701
+5cn	9	01301	00201
+6cn	1	01501	02301
+}
+SampleName = "Terrier_(Tibetan)"
+SampleSize=10
+SampleData= {
+1co	1	01502	02301
+2co	1	00101	00201
+3co	4	07901	00201
+4co	1	00601	00701
+5co	1	00901	008011
+6co	1	00101	02301
+7co	1	01501	02301
+}
+SampleName = "Terrier_(West_Highland_White)"
+SampleSize=41
+SampleData= {
+1cp	1	01801	00201
+2cp	12	00101	00201
+3cp	11	00101	00101
+4cp	2	01501	00301
+5cp	4	01501	01101
+6cp	7	01501	02002
+7cp	2	01501	00101
+8cp	1	01501	02601
+9cp	1	01502	02301
+}
+SampleName = "Terrier_(Yorkshire)"
+SampleSize=73
+SampleData= {
+1cq	2	07501	01303
+2cq	2	00101	03601
+3cq	5	00201	00101
+4cq	3	00202	00101
+5cq	1	00501	00501
+6cq	27	00601	00701
+7cq	4	00601	02801
+8cq	1	00801	00401
+9cq	1	01101	01302
+acq	2	01301	00201
+bcq	1	01501	02002
+ccq	6	01501	02201
+dcq	3	01501	02301
+ecq	1	01502	00301
+fcq	1	01502	02201
+gcq	8	01502	02301
+hcq	1	01701	01303
+icq	3	02301	00501
+jcq	1	05201	03501
+}
+SampleName = "Vizsla_Hungarian"
+SampleSize=2
+SampleData= {
+1cr	2	02001	01303
+}
+SampleName = "Volfdog_(Caucasian)"
+SampleSize=22
+SampleData= {
+1cs	2	New	02301
+2cs	3	00601	00701
+3cs	2	01101	01302
+4cs	1	01101	01303
+5cs	1	01501	00101
+6cs	1	01502	00301
+7cs	5	01502	02301
+8cs	3	02001	01303
+9cs	1	04801	03101
+acs	2	New	00701
+bcs	1	New	02002
+}
+SampleName = "Weimaraner"
+SampleSize=6
+SampleData= {
+1ct	3	01501	02002
+2ct	1	00101	00201
+3ct	2	01201	01303/01701
+}
+SampleName = "X-Crossbreed"
+SampleSize=138
+SampleData= {
+1cu	2	07601	02301
+2cu	15	00101	00201
+3cu	1	00101	03601
+4cu	1	00101	00501
+5cu	3	00101	00101
+6cu	1	00103	00201
+7cu	14	00201	00101
+8cu	1	00401	01501
+9cu	1	00601	01303
+acu	5	00601	00701
+bcu	1	00601	02801
+ccu	1	00801	00401
+dcu	1	00802	00401
+ecu	1	00901	00201
+fcu	8	00901	008011
+gcu	7	01101	01302
+hcu	7	01201	01303/01701
+icu	9	01301	00201
+jcu	1	01501	01303
+kcu	9	01501	00301
+lcu	4	01501	02201
+mcu	7	01501	02301
+ncu	3	01501	00101
+ocu	2	01501	05301
+pcu	13	01502	02301
+qcu	1	01502	00101
+rcu	1	01801	00201
+scu	4	01801	00802
+tcu	9	02001	01303
+ucu	5	02301	00501
+}
